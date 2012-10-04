@@ -1,0 +1,7 @@
+parameters:
+#    muriad_silverpop.example.class: Muriad\SilverpopBundle\Example
+
+services:
+#    muriad_silverpop.example:
+#        class: %muriad_silverpop.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
