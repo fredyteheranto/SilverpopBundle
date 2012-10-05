@@ -2,7 +2,7 @@ SilverpopBundle
 ===============
 
 Simple wrapper for the Silverpop PHP API
-
+```
 [SilverpopSDK]
     git=git://github.com/smathews/SilverpopPHP.git
     target=/silverpop
@@ -28,3 +28,4 @@ Simple wrapper for the Silverpop PHP API
     engage_server=<engage_server_number>
     engage_user=<email_of_engage_user>
     engage_pass=<users_password>
+```
