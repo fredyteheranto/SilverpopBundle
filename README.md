@@ -28,4 +28,8 @@ Simple wrapper for the Silverpop PHP API
     engage_server=<engage_server_number>
     engage_user=<email_of_engage_user>
     engage_pass=<users_password>
+
+#Then of course, and a container aware class
+    $this->silverpop = $this->container->get('silverpop');
+
 ```
